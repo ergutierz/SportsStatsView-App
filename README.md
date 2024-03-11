@@ -53,7 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - example@example.com
+Your Name - Erik Gutierrez
 
 Project Link: [https://github.com/ergutierz/CSE681Project3](https://github.com/ergutierz/CSE681Project3)
 
