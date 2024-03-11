@@ -173,7 +173,8 @@ private fun StatsColumn(
 private fun LoadingBar() {
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.Center
+        verticalArrangement = Arrangement.Center,
+        modifier = Modifier.fillMaxSize()
     ) {
         CircularProgressIndicator()
     }
