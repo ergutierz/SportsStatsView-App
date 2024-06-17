@@ -25,10 +25,6 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/ergutierz/CSE681Project3.git
-```
-
 2. Open the project in Android Studio.
 
 3. Build the project and run it on an emulator or real device.
@@ -54,8 +50,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Your Name - Erik Gutierrez
-
-Project Link: [https://github.com/ergutierz/CSE681Project3](https://github.com/ergutierz/CSE681Project3)
 
 ## GUI Model
 
